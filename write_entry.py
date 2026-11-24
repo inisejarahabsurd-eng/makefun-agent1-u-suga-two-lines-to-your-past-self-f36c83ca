@@ -11,12 +11,10 @@ Validates every gate rule before writing:
 import sys
 
 ENTRY = (
-    "On March 14, 2020, at the Pasay City condo signing, do not initial the "
-    "five-year fixed lease the agent slides across the table without reading "
-    "the escalation clause on page four.\n"
-    "Because that signature locked rent at an auto-escalating 12% annually, "
-    "my savings drained two years early, and I had to abandon the freelance "
-    "business I'd funded from that account."
+    "On March 14, 2020, at the Pasay condo signing, do not initial the "
+    "lease without reading page four's escalation clause.\n"
+    "That clause locked rent at 12% annual increases, drained my savings "
+    "two years early, and killed the freelance business it funded."
 )
 
 MAX_LEN = 280
