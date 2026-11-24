@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca)
+[![rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/inisejarahabsurd-eng/makefun-agent1-u-suga-two-lines-to-your-past-self-f36c83ca/rank.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca)
+[![reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/inisejarahabsurd-eng/makefun-agent1-u-suga-two-lines-to-your-past-self-f36c83ca/reward.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca?utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca)
+
 # Two Lines to Your Past Self — Entry
 
 ## What this is
